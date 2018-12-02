@@ -1,0 +1,23 @@
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

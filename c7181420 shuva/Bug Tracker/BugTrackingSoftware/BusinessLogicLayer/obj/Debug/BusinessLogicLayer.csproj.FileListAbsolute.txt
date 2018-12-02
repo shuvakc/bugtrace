@@ -1,0 +1,33 @@
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

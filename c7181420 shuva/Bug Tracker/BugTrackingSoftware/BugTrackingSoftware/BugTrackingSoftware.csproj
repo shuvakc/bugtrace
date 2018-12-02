@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6C260D48-B88D-48C4-A2DF-54176ED50DAD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BugTrackingSoftware</RootNamespace>
+    <AssemblyName>BugTrackingSoftware</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>bug.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FastColoredTextBox">
+      <HintPath>..\..\..\..\FastColoredTextBox-master\FastColoredTextBox-master\Binary\FastColoredTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AllMemberProjectReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllMemberProjectReport.Designer.cs">
+      <DependentUpon>AllMemberProjectReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllMemberReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllMemberReportForm.Designer.cs">
+      <DependentUpon>AllMemberReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BugByMemberForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BugByMemberForm.Designer.cs">
+      <DependentUpon>BugByMemberForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BugByUserNameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BugByUserNameForm.Designer.cs">
+      <DependentUpon>BugByUserNameForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BugDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BugDetailsForm.Designer.cs">
+      <DependentUpon>BugDetailsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BugEntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BugEntryForm.Designer.cs">
+      <DependentUpon>BugEntryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BugSolutionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BugSolutionForm.Designer.cs">
+      <DependentUpon>BugSolutionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatewiseProjectReportFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatewiseProjectReportFrm.Designer.cs">
+      <DependentUpon>DatewiseProjectReportFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetBugsByProjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetBugsByProjectForm.Designer.cs">
+      <DependentUpon>GetBugsByProjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetSolutionsByMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetSolutionsByMember.Designer.cs">
+      <DependentUpon>GetSolutionsByMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetSolutionsByProjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetSolutionsByProjectForm.Designer.cs">
+      <DependentUpon>GetSolutionsByProjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginFrm.Designer.cs">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberDashboard.Designer.cs">
+      <DependentUpon>MemberDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberDetailsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberDetailsList.Designer.cs">
+      <DependentUpon>MemberDetailsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberForm.Designer.cs">
+      <DependentUpon>MemberForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberWiseProjectReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberWiseProjectReportForm.Designer.cs">
+      <DependentUpon>MemberWiseProjectReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="ProjectByMemberForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProjectByMemberForm.Designer.cs">
+      <DependentUpon>ProjectByMemberForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProjectDetailsForm.Designer.cs">
+      <DependentUpon>ProjectDetailsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProjectForm.Designer.cs">
+      <DependentUpon>ProjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectMemberForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProjectMemberForm.Designer.cs">
+      <DependentUpon>ProjectMemberForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectMembersDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProjectMembersDetails.Designer.cs">
+      <DependentUpon>ProjectMembersDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SolutionsByUserNameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SolutionsByUserNameForm.Designer.cs">
+      <DependentUpon>SolutionsByUserNameForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TesterDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TesterDashboard.Designer.cs">
+      <DependentUpon>TesterDashboard.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AllMemberProjectReport.resx">
+      <DependentUpon>AllMemberProjectReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllMemberReportForm.resx">
+      <DependentUpon>AllMemberReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BugByMemberForm.resx">
+      <DependentUpon>BugByMemberForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BugByUserNameForm.resx">
+      <DependentUpon>BugByUserNameForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BugDetailsForm.resx">
+      <DependentUpon>BugDetailsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BugEntryForm.resx">
+      <DependentUpon>BugEntryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BugSolutionForm.resx">
+      <DependentUpon>BugSolutionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatewiseProjectReportFrm.resx">
+      <DependentUpon>DatewiseProjectReportFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetBugsByProjectForm.resx">
+      <DependentUpon>GetBugsByProjectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetSolutionsByMember.resx">
+      <DependentUpon>GetSolutionsByMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetSolutionsByProjectForm.resx">
+      <DependentUpon>GetSolutionsByProjectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginFrm.resx">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberDashboard.resx">
+      <DependentUpon>MemberDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberDetailsList.resx">
+      <DependentUpon>MemberDetailsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberForm.resx">
+      <DependentUpon>MemberForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberWiseProjectReportForm.resx">
+      <DependentUpon>MemberWiseProjectReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProjectByMemberForm.resx">
+      <DependentUpon>ProjectByMemberForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProjectDetailsForm.resx">
+      <DependentUpon>ProjectDetailsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProjectForm.resx">
+      <DependentUpon>ProjectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProjectMemberForm.resx">
+      <DependentUpon>ProjectMemberForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProjectMembersDetails.resx">
+      <DependentUpon>ProjectMembersDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SolutionsByUserNameForm.resx">
+      <DependentUpon>SolutionsByUserNameForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TesterDashboard.resx">
+      <DependentUpon>TesterDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bug.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogicLayer\BusinessLogicLayer.csproj">
+      <Project>{c8a3c114-2a90-4bbf-8b1a-3320c9ebbec0}</Project>
+      <Name>BusinessLogicLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{22024ab8-b8dd-4927-bdfd-66558c8c5b63}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

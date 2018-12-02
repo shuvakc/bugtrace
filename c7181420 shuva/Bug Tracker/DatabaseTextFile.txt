@@ -1,0 +1,295 @@
+Create Table MemberTable
+(
+MemberId int identity(1,1) primary key,
+MemberName varchar(100) not null,
+Address varchar(200),
+Contact varchar(20),
+Email varchar(100),
+Gender varchar(20),
+DateofBirth date,
+DateofJoin date,
+Designation varchar(50),
+Role varchar(20),
+UserName varchar(100) unique not null,
+Password varchar(100) not null
+)
+
+Create Table ProjectTable
+(
+ProjectId int identity(1,1) primary key,
+ProjectName varchar(100) not null unique,
+ProjectDescription varchar(max),
+StartDate date not null,
+EndDate date
+)
+
+Create Table ProjectMemberTable
+(
+Id int identity(1,1) primary key,
+ProjectId int foreign key references ProjectTable(ProjectId)
+on update cascade on delete cascade,
+MemberId int,
+MemberRole varchar(100),
+Responsibilities varchar(max)
+)
+
+Create Table BugTable
+(
+BugId int identity(1,1) primary key,
+EntryDate date,
+ProjectId int,
+MemberId int,
+BugDetails varchar(max),
+Remarks varchar(100)
+)
+
+Create Table SolutionTable
+(
+SolutionId int identity(1,1) primary key,
+BugId int foreign key references BugTable(BugId) 
+on update cascade on delete cascade,
+SolutionDetails varchar(max),
+SolutionDate date,
+Remarks varchar(200),
+MemberID varchar(200)
+)
+
+USE [BugDatabase]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_ManageBugs]    Script Date: 1/19/2018 10:23:48 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+ALTER Procedure [dbo].[SP_ManageBugs]
+(
+@BugId int,
+@EntryDate date,
+@ProjectId int,
+@MemberId int,
+@ClassName varchar(100),
+@MethodName varchar(100),
+@BlockName varchar(100),
+@LineNumber int,
+@BugDetails varchar(max),
+@Remarks varchar(100),
+@Mode int
+)
+as
+begin
+if(@Mode=1)
+insert into BugTable(EntryDate,
+ProjectId,
+MemberId,
+ClassName,
+MethodName,
+BlockName,
+LineNumber,
+BugDetails,
+Remarks) values 
+(@EntryDate,
+@ProjectId,
+@MemberId,
+@ClassName,
+@MethodName,
+@BlockName,
+@LineNumber,
+@BugDetails,
+@Remarks)
+if(@Mode=2)
+Update BugTable set 
+EntryDate=@EntryDate,
+ProjectId=@ProjectId,
+MemberId=@MemberId,
+ClassName=@ClassName,
+MethodName=@MethodName,
+BlockName=@BlockName,
+LineNumber=@LineNumber,
+BugDetails=@BugDetails,
+Remarks=@Remarks where BugId=@BugId
+if(@Mode=3)
+Delete from BugTable where BugId=@BugId
+end
+
+
+USE [BugDatabase]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_ManageMembers]    Script Date: 1/19/2018 10:24:09 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER Procedure [dbo].[SP_ManageMembers]
+(
+@MemberId int,
+@MemberName varchar(100),
+@Address varchar(100),
+@Contact varchar(20),
+@Email varchar(100),
+@Gender varchar(20),
+@DateofBirth date,
+@DateofJoin date,
+@Designation varchar(50),
+@Role varchar(20),
+@UserName varchar(100),
+@Password varchar(100),
+@Mode int
+)
+as
+begin
+if(@Mode=1)
+insert into MemberTable(MemberName,
+Address,
+Contact,
+Email,
+Gender,
+DateofBirth,
+DateofJoin,
+Designation,
+Role,
+UserName,
+Password) values (
+@MemberName,
+@Address,
+@Contact,
+@Email,
+@Gender,
+@DateofBirth,
+@DateofJoin,
+@Designation,
+@Role,
+@UserName,
+@Password
+)
+if(@Mode=2)
+Update MemberTable 
+set MemberName=@MemberName,
+Address=@Address,
+Contact=@Contact,
+Email=@Email,
+Gender=@Gender,
+DateofBirth=@DateofBirth,
+DateofJoin=@DateofJoin,
+Designation=@Designation,
+Role=@Role,
+UserName=@UserName,
+Password=@Password where MemberId=@MemberId
+if(@Mode=3)
+Delete from MemberTable where MemberId=@MemberId
+end
+
+USE [BugDatabase]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_ManageProjectMemberTable]    Script Date: 1/19/2018 10:24:24 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER Procedure [dbo].[SP_ManageProjectMemberTable]
+(
+@Id int,
+@ProjectId int,
+@MemberId int,
+@MemberRole varchar(100),
+@Responsibilities varchar(max),
+@Mode int
+)
+as
+begin
+if(@Mode=1)
+insert into ProjectMemberTable(ProjectId,
+MemberId,
+MemberRole,
+Responsibilities) values 
+(@ProjectId,
+@MemberId,
+@MemberRole,
+@Responsibilities)
+if(@Mode=2)
+update ProjectMemberTable
+set ProjectId=@ProjectId,
+MemberId=@MemberId,
+MemberRole=@MemberRole,
+Responsibilities=@Responsibilities
+where id=@Id
+if(@Mode=3)
+Delete from ProjectMemberTable where Id=@Id
+end
+
+USE [BugDatabase]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_ManageProjects]    Script Date: 1/19/2018 10:25:30 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+ALTER Procedure [dbo].[SP_ManageProjects]
+(
+@ProjectId int,
+@ProjectName varchar(100),
+@ProjectDescription varchar(max),
+@StartDate date,
+@EndDate date,
+@Mode int
+)
+as
+begin
+if(@Mode=1)
+insert into ProjectTable(ProjectName,
+ProjectDescription,
+StartDate,
+EndDate) values 
+(@ProjectName,
+@ProjectDescription,
+@StartDate,
+@EndDate)
+if(@Mode=2)
+Update ProjectTable set
+ProjectName=@ProjectName,
+ProjectDescription=@ProjectDescription,
+StartDate=@StartDate,
+EndDate=@EndDate
+where ProjectId=@ProjectId
+if(@Mode=3)
+Delete from ProjectTable where ProjectId=@ProjectId
+end
+
+USE [BugDatabase]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_ManageSolutions]    Script Date: 1/19/2018 10:25:40 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER Procedure [dbo].[SP_ManageSolutions]
+(
+@SolutionId int,
+@BugId int,
+@MemberId int,
+@SolutionDetails varchar(max),
+@SolutionDate date,
+@Remarks varchar(200),
+@Mode int
+)
+as
+begin
+if(@Mode=1)
+insert into SolutionTable(BugId,
+MemberId,
+SolutionDetails,
+SolutionDate,
+Remarks) values (@BugId,@MemberId,@SolutionDetails,
+@SolutionDate,@Remarks)
+if(@Mode=2)
+Update SolutionTable set BugId=@BugId,
+MemberId=@MemberId,
+SolutionDetails=@SolutionDetails,
+SolutionDate=@SolutionDate,
+Remarks=@Remarks where SolutionId=@SolutionId
+if(@Mode=3)
+Delete from SolutionTable where SolutionId=@SolutionId
+end
+

@@ -1,0 +1,155 @@
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BugTrackingSoftware.exe
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BugTrackingSoftware.pdb
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.csprojResolveAssemblyReference.cache
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.Form1.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.Properties.Resources.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.csproj.GenerateResource.Cache
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.exe
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.pdb
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.MemberDashboard.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.MemberForm.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectForm.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectMemberForm.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugEntryForm.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugSolutionForm.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.LoginFrm.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BugTrackingSoftware.exe.config
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BusinessLogicLayer.dll
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\DataAccessLayer.dll
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BusinessLogicLayer.pdb
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\DataAccessLayer.pdb
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.MemberDetailsList.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectDetailsForm.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectMembersDetails.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugDetailsForm.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.MemberWiseProjectReportForm.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.AllMemberProjectReport.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.AllMemberReportForm.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.DatewiseProjectReportFrm.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugByMemberForm.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.GetBugsByProjectForm.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.GetSolutionsByProjectForm.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.GetSolutionsByMember.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectByMemberForm.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugByUserNameForm.resources
+D:\NIkesh Baral Project\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.SolutionsByUserNameForm.resources
+C:\Users\Sumet\Desktop\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BugTrackingSoftware.exe.config
+C:\Users\Sumet\Desktop\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.exe
+C:\Users\Sumet\Desktop\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.pdb
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BugTrackingSoftware.exe.config
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BugTrackingSoftware.exe
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BugTrackingSoftware.pdb
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\DataAccessLayer.dll
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\DataAccessLayer.pdb
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.AllMemberProjectReport.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.AllMemberReportForm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugByMemberForm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugByUserNameForm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugDetailsForm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugEntryForm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugSolutionForm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.DatewiseProjectReportFrm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.Form1.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.GetBugsByProjectForm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.GetSolutionsByMember.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.GetSolutionsByProjectForm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.LoginFrm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.MemberDashboard.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.MemberDetailsList.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.MemberForm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.MemberWiseProjectReportForm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectByMemberForm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectDetailsForm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectForm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectMemberForm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectMembersDetails.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.Properties.Resources.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.SolutionsByUserNameForm.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.csproj.GenerateResource.Cache
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.exe
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.pdb
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.TesterDashboard.resources
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\FastColoredTextBox.dll
+C:\Users\Prajwal\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\FastColoredTextBox.xml
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BugTrackingSoftware.exe.config
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BugTrackingSoftware.exe
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BugTrackingSoftware.pdb
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BusinessLogicLayer.dll
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\DataAccessLayer.dll
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\DataAccessLayer.pdb
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\FastColoredTextBox.xml
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.csprojAssemblyReference.cache
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.AllMemberProjectReport.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.AllMemberReportForm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugByMemberForm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugByUserNameForm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugDetailsForm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugEntryForm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugSolutionForm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.DatewiseProjectReportFrm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.Form1.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.GetBugsByProjectForm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.GetSolutionsByMember.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.GetSolutionsByProjectForm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.LoginFrm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.MemberDashboard.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.MemberDetailsList.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.MemberForm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.MemberWiseProjectReportForm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectByMemberForm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectDetailsForm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectForm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectMemberForm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectMembersDetails.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.Properties.Resources.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.SolutionsByUserNameForm.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.TesterDashboard.resources
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.csproj.GenerateResource.cache
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.csproj.CoreCompileInputs.cache
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.csproj.CopyComplete
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.exe
+C:\Users\prajw\Downloads\Bug Tracker\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.pdb
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BugTrackingSoftware.exe.config
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BugTrackingSoftware.exe
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BugTrackingSoftware.pdb
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BusinessLogicLayer.dll
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\DataAccessLayer.dll
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\DataAccessLayer.pdb
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\bin\Debug\FastColoredTextBox.xml
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.csprojAssemblyReference.cache
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.AllMemberProjectReport.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.AllMemberReportForm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugByMemberForm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugByUserNameForm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugDetailsForm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugEntryForm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.BugSolutionForm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.DatewiseProjectReportFrm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.Form1.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.GetBugsByProjectForm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.GetSolutionsByMember.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.GetSolutionsByProjectForm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.LoginFrm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.MemberDashboard.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.MemberDetailsList.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.MemberForm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.MemberWiseProjectReportForm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectByMemberForm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectDetailsForm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectForm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectMemberForm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.ProjectMembersDetails.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.Properties.Resources.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.SolutionsByUserNameForm.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.TesterDashboard.resources
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.csproj.GenerateResource.cache
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.csproj.CoreCompileInputs.cache
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.csproj.CopyComplete
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.exe
+C:\Users\prajw\Downloads\c7181420 shuva\Bug Tracker\BugTrackingSoftware\BugTrackingSoftware\obj\Debug\BugTrackingSoftware.pdb
